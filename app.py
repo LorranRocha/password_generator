@@ -1,4 +1,4 @@
-#	Python 3.10.5
+#   Python 3.10.5
 #   Author: Lorran Rocha https://lorranrocha.com/
 
 import string, random, os
